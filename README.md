@@ -16,7 +16,7 @@ DCT depends on
 - [timm](https://github.com/rwightman/pytorch-image-models)==0.6.11
 
 
-This repository contains code for evaluation on [ImageNet-C] with Vit.
+This repository contains code for evaluation on ImageNet-C, ImageNet-R, and VisDA-2021 with ViT.
 
 
 **Usage**:

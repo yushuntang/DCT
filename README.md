@@ -17,7 +17,7 @@ DCT depends on
 
 
 This repository contains code for evaluation on ImageNet-C, ImageNet-R, and VisDA-2021 with ViT.
-
+The pre-trained ViT-B model weights are from timm (https://storage.googleapis.com/vit_models/augreg/B_16-i21k-300ep-lr_0.001-aug_medium1-wd_0.1-do_0.0-sd_0.0--imagenet2012-steps_20k-lr_0.01-res_224.npz).
 
 **Usage**:
 
